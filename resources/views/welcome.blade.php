@@ -6,6 +6,7 @@
 
         <title>Laravel CI CD</title>
 
+        <h1> This is a laravel CI CD Deployment </h1>
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
